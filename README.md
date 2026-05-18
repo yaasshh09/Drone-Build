@@ -39,7 +39,7 @@ This project is a fully custom quadrotor flight controller built as part of my u
 - [Results](#results)
 - [Repo structure](#repo-structure)
 - [How to build](#how-to-build)
-- [Lessons learned](#lessons-learned)
+- [Concepts Covered](#concepts-covered)
 
 ---
 
